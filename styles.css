@@ -1,0 +1,18 @@
+.hero {
+  width: 1000px;
+}
+
+.hero3 .lower .left {
+  width: 40%;
+}
+
+.item-container {
+  width: 200px;
+  height: 140px;
+  border-color: #665dcd;
+  padding-top: 16px;
+}
+
+.item-container:hover {
+  background: linear-gradient(135deg, #665dcd, #5fa4e6, #d2ab67);
+}
