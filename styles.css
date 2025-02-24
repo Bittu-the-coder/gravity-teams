@@ -2,7 +2,8 @@
   width: 1000px;
 }
 
-.hero3 .lower .left {
+.hero3 .lower .left,
+.hero4 .right {
   width: 40%;
 }
 
@@ -18,5 +19,9 @@
 }
 
 .hero2 .grid .my-item-container:hover {
-  background: linear-gradient(135deg, #665dcd, #5fa4e6, #d2ab67);
+  background: linear-gradient(135deg, #665dcd, #5fa4e6, #d2ab67) !important;
+}
+
+.hero6 {
+  width: 800px;
 }
